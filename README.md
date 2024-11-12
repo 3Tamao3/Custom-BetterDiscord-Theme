@@ -1,4 +1,4 @@
-<h1>https://betterdiscord.app/</h1>
+<h1><a href="https://betterdiscord.app">BetterDiscord</a>a></h1>
 
 Modified <a href="https://betterdiscord.app/theme/Chillax">Chillax</a> Theme with the Void Walker as Background
 
